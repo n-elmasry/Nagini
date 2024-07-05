@@ -6,11 +6,11 @@ Nagini is not just a classic snake game—it's a tribute to the magical world of
 
 ## Technical Challenges and Solutions
 
-- Game Mechanics: The core challenge was implementing traditional snake mechanics while integrating Harry Potter-themed visuals seamlessly. Each aspect of the game—from snake movement to fruit spawning—had to align with Python's Pygame library capabilities, ensuring smooth gameplay and visual appeal.
+- **Game Mechanics:** The core challenge was implementing traditional snake mechanics while integrating Harry Potter-themed visuals seamlessly. Each aspect of the game—from snake movement to fruit spawning—had to align with Python's Pygame library capabilities, ensuring smooth gameplay and visual appeal.
 
-- Algorithmic Design: One of the technical highlights was designing the snake's movement algorithm using vector mathematics from Pygame's Vector2 module. This allowed precise control over Nagini's directional movement, crucial for avoiding collisions and growing in length upon consuming "Harry Potter" fruits.
+- **Algorithmic Design:** One of the technical highlights was designing the snake's movement algorithm using vector mathematics from Pygame's Vector2 module. This allowed precise control over Nagini's directional movement, crucial for avoiding collisions and growing in length upon consuming "Harry Potter" fruits.
 
-- Visual and Audio Integration: Bringing the Harry Potter theme to life involved integrating custom graphics and sound effects. This included designing unique sprites for Nagini, Harry Potter fruits, and background elements, alongside incorporating sound effects like the iconic "crunch" when Nagini consumes a fruit.
+- **Visual and Audio Integration:** Bringing the Harry Potter theme to life involved integrating custom graphics and sound effects. This included designing unique sprites for Nagini, Harry Potter fruits, and background elements, alongside incorporating sound effects like the iconic "crunch" when Nagini consumes a fruit.
 
 ## Struggles and Iterations
 
@@ -20,9 +20,9 @@ Throughout development, I encountered challenges with optimizing game performanc
 
 For future iterations, I envision enhancing Nagini with additional features such as:
 
-- Multiplayer Mode: Introducing a competitive or cooperative multiplayer option.
+- **Multiplayer Mode:** Introducing a competitive or cooperative multiplayer option.
 - Enhanced Visual Effects: Adding animations or visual effects to further immerse players in the Harry Potter universe.
-- Community Features: Integrate social features such as leaderboards, achievements, and player-generated content sharing to foster a vibrant Nagini community.
+- **Community Features:** Integrate social features such as leaderboards, achievements, and player-generated content sharing to foster a vibrant Nagini community.
 
 ## Features
 
@@ -49,7 +49,10 @@ pip install pygame
 ```
 
 To start the game, navigate to the project directory and run:
+
+```bash
 python nagini.py
+```
 
 ## How to Play
 
@@ -77,8 +80,8 @@ This game is inspired by the Harry Potter series by J.K. Rowling. All Harry Pott
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email: almassrynada411@gmail.com
-- GitHub: n-elmasry
+- **Email:** almassrynada411@gmail.com
+- **GitHub:** n-elmasry
 
 ## Acknowledgements
 
