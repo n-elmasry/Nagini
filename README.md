@@ -10,6 +10,12 @@ Nagini is a classic snake game inspired by the Harry Potter world. In this game,
 - Harry Potter-themed visuals
 - Score tracking
 
+## Screenshot
+
+![Nagini Screenshot](Graphics/Nagini.png)
+
+Caption: Screenshot of Nagini game in action.
+
 ## Installation
 
 To play Nagini, you'll need to have Python installed on your computer. You can download Python from [python.org](https://www.python.org/).
