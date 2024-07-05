@@ -21,7 +21,7 @@ Throughout development, I encountered challenges with optimizing game performanc
 For future iterations, I envision enhancing Nagini with additional features such as:
 
 - **Multiplayer Mode:** Introducing a competitive or cooperative multiplayer option.
-- Enhanced Visual Effects: Adding animations or visual effects to further immerse players in the Harry Potter universe.
+- **Enhanced Visual Effects:** Adding animations or visual effects to further immerse players in the Harry Potter universe.
 - **Community Features:** Integrate social features such as leaderboards, achievements, and player-generated content sharing to foster a vibrant Nagini community.
 
 ## Features
